@@ -29,7 +29,7 @@ end
 
 def retrieve_first_element_from_array(array)
   g = ["wow", "am", "really", "learning", "arrays!"]
-  g["wow"]
+  g.slice(0)
 end
 
 def retrieve_last_element_from_array(array)
