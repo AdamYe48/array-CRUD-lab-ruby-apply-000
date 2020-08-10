@@ -29,6 +29,7 @@ end
 
 def retrieve_first_element_from_array(array)
   g = ["i", "am", "really", "learning", "arrays!"]
+  g = [0]
 end
 
 def retrieve_last_element_from_array(array)
