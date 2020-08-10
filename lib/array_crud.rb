@@ -33,5 +33,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
+  h = ["i", "am", "really", "learning", "arrays!"]
+  h.slice(4)
   
 end
